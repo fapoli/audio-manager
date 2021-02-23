@@ -1,4 +1,4 @@
-# VoiceBoxer
+# AudioManager
 A Unity component to handle sounds. It can group sounds and play them in random order, or in a sequence.
 
 ## Package Contents
